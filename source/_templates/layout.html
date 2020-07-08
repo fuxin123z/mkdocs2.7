@@ -3,13 +3,16 @@
 
 {% block comments %}
 {% if sourcename is defined %}
+
+
 <script src="https://utteranc.es/client.js"
         repo="fuxin123z/mkdocs2.7"
-        issue-term="url"
-        label="comments"
+        issue-term="pathname"
+        label="utterances"
         theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
+
 {% endif %}
 {% endblock %}
