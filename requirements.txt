@@ -1,3 +1,5 @@
+# pip list 查看包
+
 # -r requirements/pip.txt
 # -r requirements/pip.txt
 # just referencing for a natural `pip install -r requirements.txt`
@@ -21,7 +23,7 @@ numpydoc
 ipykernel
 
 
-#  pip install recommonmark
+#  pip install recommonmark    !!!
 # pip install sphinx_rtd_theme
 recommonmark
 sphinx_rtd_theme

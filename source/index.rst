@@ -27,3 +27,4 @@ Welcome to MING's BLOG's documentation!
     
     class/index
     xueyuan/index
+    py3-in-one-pic.ipynb/index
